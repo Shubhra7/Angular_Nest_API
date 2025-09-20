@@ -15,5 +15,5 @@ export class BookingDTO {
   guestCountry: string;
   guestZipCode: string;
   guestCount: number;
-  guestList: []
+  guestList: [];
 }
